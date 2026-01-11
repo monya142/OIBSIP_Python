@@ -14,4 +14,4 @@ This project is created for the OASIS INFOBYTE Python Internship.
 # to Run
 1. Install required libraries
 2. Run `voice_assistant.py`
-3. Speak commands through microphone
+3. Speak commands through microphone 
