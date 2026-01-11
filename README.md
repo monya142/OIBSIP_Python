@@ -1,4 +1,4 @@
-# OIBSIP_Python# Python Voice Assistant.
+# Python Voice Assistant.
 This project is created for the OASIS INFOBYTE Python Internship.
 ## Features
 - Responds to "Hello"
